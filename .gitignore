@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.pytest_cache/
+*.pcap
+*.pcapng
+report.json
+flows.csv
+.DS_Store
+node_modules/
+package.json
+package-lock.json
